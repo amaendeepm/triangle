@@ -7,7 +7,7 @@ Pre-requisite:
 Steps:
 
 2. Clone the repo and add its location to system $GOPATH
-3. To execute main program which essentially contains tests ( feel free to edit ), just run *go run main.go*
+3. To execute main program which essentially contains tests ( feel free to edit ), just execute: **go run main.go**
 
 PS: Inside triangle-app folder
 :> triangle.go : contains the logical code to determine triangle type
